@@ -1,1 +1,4 @@
 # easycode
+HTMLCODE 
+CSS
+JAVASCRIPT
